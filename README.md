@@ -48,16 +48,16 @@ My projects reflect a **user‑centric design philosophy** — from refining PHP
   <img src="https://github-readme-stats.vercel.app/api?username=Andrewxmaina&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="165">
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drewxavier&layout=compact&theme=radical&langs_count=10" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewxmaina&layout=compact&theme=radical&langs_count=10" height="165">
 </p>
 
 <p align="center">
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drewxavier&theme=radical&hide_border=false" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrewxmaina&theme=radical&hide_border=false" height="165">
 </p>
 <p align="center">
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=Drewxavier&color=red&style=flat-square&label=Profile+Views">
+  <img src="https://komarev.com/ghpvc/?username=Andrewxmaina&color=red&style=flat-square&label=Profile+Views">
 </p>
 
 
