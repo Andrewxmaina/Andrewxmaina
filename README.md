@@ -1,5 +1,9 @@
 <!-- Banner Image -->
-![Header](https://github.com/Andrewxmaina/Andrewxmaina/blob/main/Main%20pic.jpg)
+<p align="center">
+  <img src="https://github.com/Andrewxmaina/Andrewxmaina/blob/main/Main%20pic.jpg" 
+       alt="Header Banner" 
+       width="100%" />
+</p>
 <!-- Animated Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there%20👋%20I'm%20Andrew!&fontSize=40&animation=fadeIn&fontAlignY=35" />
