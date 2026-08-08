@@ -54,11 +54,6 @@ My projects reflect a **user‑centric design philosophy** — from refining PHP
   <!-- Top Languages (Alternative) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andrewxmaina&theme=radical" height="165" />
 </p>
-
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrewxmaina&theme=radical&hide_border=false" height="165">
-</p>
 <p align="center">
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=Andrewxmaina&color=red&style=flat-square&label=Profile+Views">
