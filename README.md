@@ -49,8 +49,8 @@ My projects reflect a **user‑centric design philosophy** — from refining PHP
 ## 📊 GitHub Stats
 <p align="center">
   <!-- Overall Stats (Alternative) -->
- <p align="center">
-  <img src="https://github-readme-streak-stats-five.vercel.app/?user=Andrewxmaina&theme=radical&v=2" height="165" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andrewxmaina&theme=radical&show_icons=true&include_all_commits=true" height="165" />
 </p>
   
   <!-- Top Languages (Alternative) -->
