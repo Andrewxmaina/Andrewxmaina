@@ -69,7 +69,7 @@ My work follows a **user-centric design philosophy**, from refining PHP CLI logi
     <td><img src="https://img.shields.io/badge/-Web-0ea5e9?style=flat-square" /></td>
   </tr>
   <tr>
-    <td>📦 <a href=https://github.com/Andrewxmaina/CLI-based-second-version/blob/master/inventory.php><b>CLI Inventory System</b></a></td>
+    <td>📦 <a href="https://github.com/Andrewxmaina/CLI-based-second-version/blob/master/inventory.php"><b>CLI Inventory System</b></a></td>
     <td>Add, update and remove items without a database</td>
     <td><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" /></td>
   </tr>
@@ -84,7 +84,7 @@ My work follows a **user-centric design philosophy**, from refining PHP CLI logi
     <td><img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" /></td>
   </tr>
   <tr>
-    <td>🎓 <a href="https://github.com/Drewxavier/CLI-basedInventorySystemVB/blob/master/studentcourseregistration.php"><b>Student Registration CLI</b></a></td>
+    <td>🎓 <a href="https://github.com/Andrewxmaina/CLI-based-second-version/blob/master/studentcourseregistration.php"><b>Student Registration CLI</b></a></td>
     <td>Array-based temporary storage for course registration</td>
     <td><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" /></td>
   </tr>
