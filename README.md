@@ -74,7 +74,7 @@ My work follows a **user-centric design philosophy**, from refining PHP CLI logi
     <td><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" /></td>
   </tr>
   <tr>
-    <td>🎵 <a href="https://github.com/Drewxavier/PHPSerious/blob/master/Musicdemo.php"><b>Music CLI App</b></a></td>
+    <td>🎵 <a href="https://github.com/Andrewxmaina/SeriousPhpAttachment/blob/master/Musicdemo.php"><b>Music CLI App</b></a></td>
     <td>Search, play and manage playlists from the terminal</td>
     <td><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" /></td>
   </tr>
