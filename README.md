@@ -79,7 +79,7 @@ My work follows a **user-centric design philosophy**, from refining PHP CLI logi
     <td><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" /></td>
   </tr>
   <tr>
-    <td>💬 <a href="https://github.com/Drewxavier/Androidwhatsupinterface"><b>WhatsApp UI Demo</b></a></td>
+    <td>💬 <a href="https://github.com/Andrewxmaina/Whatsupinterface"><b>WhatsApp UI Demo</b></a></td>
     <td>Linear layout with clickable user chats</td>
     <td><img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" /></td>
   </tr>
