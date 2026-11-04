@@ -37,7 +37,7 @@ My projects reflect a **user‑centric design philosophy** — from refining PHP
 ## 🌟 Featured Projects
 | Project | Demo |
 |---------|------|
-| 🗳 [**Online Voting System**](https://github.com/Drewxavier/Drewxavier/tree/main/Online%20voting%20system) | Role-based access, admin panel |
+| 🗳 [**Online Voting System**](https://github.com/Andrewxmaina/Online-voting-system) | Role-based access, admin panel |
 | 📦 [**CLI Inventory System**](https://github.com/Drewxavier/CLI-basedInventorySystemVB/blob/master/inventory.php) | Add/update/remove items without DB |
 | 🎵 [**Music CLI App**](https://github.com/Drewxavier/PHPSerious/blob/master/Musicdemo.php) | Search, play, playlists |
 | 💬 [**WhatsApp UI Demo**](https://github.com/Drewxavier/Androidwhatsupinterface) | Linear layout, clickable users |
